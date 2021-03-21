@@ -1,0 +1,10 @@
+Instalasi & Konfigurasi
+
+Masuk ke folder project ini
+Lalu buka terminal dan jalankan composer install
+Selanjutnya kalian bisa buka file application/config/config.php
+Ubah isi dari variable $config['base_url'] dengan http://localhost/namafolder/
+Untuk namafolder silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
+Import db_inventori.sql ke database milik kalian
+Untuk login admin kalian bisa menggunakan username = nugrohoff dan password pwd_nugroho
+Untuk login petugas kalian bisa menggunakan username = PTGS35 dan password pwd_fanani
